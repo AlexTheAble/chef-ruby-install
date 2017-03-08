@@ -10,4 +10,4 @@ version "0.2.0"
   supports os
 end
 
-depends "git"
+depends "git", "= 5.0.2"
